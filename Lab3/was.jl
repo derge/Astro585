@@ -1,1 +1,0 @@
-data = readcsv("coma.dat")
